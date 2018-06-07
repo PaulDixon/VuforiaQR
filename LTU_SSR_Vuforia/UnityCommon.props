@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>LTU SSR AR Vuforia</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\vr-user\Documents\pd_dev\unityTutorial\rollerball\VuforiaQR\LTU_SSR_Vuforia\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\vr-user\Documents\pd_dev\unityTutorial\rollerball\VuforiaQR\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

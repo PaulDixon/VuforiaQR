@@ -1,0 +1,525 @@
+{
+"contextResponses": [
+
+        {
+
+            "contextElement": {
+
+                "type": "LORA_Sensor",
+
+                "isPattern": "false",
+
+                "id": "0004a30b0022a677",
+
+                "attributes": [
+
+                    {
+
+                        "name": "Acc motion",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "Number of Vibration/motion"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Acceleration X-Axis",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "+/-63 1G"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Acceleration Y-Axis",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "+/-63 1G"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Acceleration Z-Axis",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "+/-63 1G"
+
+                            }
+
+                        ]
+
+                   },
+
+                    {
+
+                        "name": "Battery level",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "mV"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Co2",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "ppm"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Humidity",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "%"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "LAT",
+
+                        "type": "float",
+
+                        "value": "64.751465",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "degrees"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "LON",
+
+                        "type": "float",
+
+                        "value": "20.954414",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "degrees"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Light",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "LUX"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Motion",
+
+                        "type": "integer",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "No of motion"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "NO2",
+
+                        "type": "float",
+
+                        "value": "0.08294051",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "ppm"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "PM1",
+
+                        "type": "float",
+
+                        "value": "0.8993625",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "ug/m3"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "PM10",
+
+                        "type": "float",
+
+                        "value": "2.4104462",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "ug/m3"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "PM25",
+
+                        "type": "float",
+
+                        "value": "1.484232",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "ug/m3"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Temperature",
+
+                        "type": "float",
+
+                        "value": "",
+
+                        "metadatas": [
+
+                            {
+
+                                "name": "unit",
+
+                                "type": "string",
+
+                                "value": "C"
+
+                            }
+
+                        ]
+
+                    },
+
+                    {
+
+                        "name": "Timestamp",
+
+                        "type": "dd-MM-yyyy HH:mm:ss.SSSS",
+
+                        "value": "20-05-2018 23:27:02.0971"
+
+                    },
+
+                    {
+
+                        "name": "appEui",
+
+                        "type": "dec",
+
+                        "value": "0000000000000000"
+
+                    },
+
+                    {
+
+                        "name": "clusterId",
+
+                        "type": "dec",
+
+                        "value": "70"
+
+                    },
+
+                    {
+
+                        "name": "devAddr",
+
+                        "type": "hex",
+
+                        "value": "0022a677"
+
+                    },
+
+                    {
+
+                        "name": "fcntDown",
+
+                        "type": "dec",
+
+                        "value": "0"
+
+                    },
+
+                    {
+
+                        "name": "fcntUp",
+
+                        "type": "dec",
+
+                        "value": "746"
+
+                    },
+
+                    {
+
+                        "name": "fport",
+
+                        "type": "dec",
+
+                        "value": "1"
+
+                    },
+
+                    {
+
+                        "name": "maxretry",
+
+                        "type": "dec",
+
+                        "value": "1"
+
+                    },
+
+                    {
+
+                        "name": "msgId",
+
+                        "type": "hex",
+
+                        "value": "5b01e80e4f05a8000e1aafd7"
+
+                    },
+
+                    {
+
+                        "name": "payload",
+
+                        "type": "hex",
+
+                        "value": "0B 3F 66 3C 9F 3F BD FB 50 40 1A 44 C0 3D A9 DC B7 42 81 80 C0 41 A7 A2 A4"
+
+                    },
+
+                    {
+
+                        "name": "ttl",
+
+                        "type": "dec",
+
+                        "value": "0"
+
+                    }
+
+                ]
+
+            },
+
+            "statusCode": {
+
+                "code": "200",
+
+                "reasonPhrase": "OK"
+
+            }
+
+        }
+
+    ]
+}

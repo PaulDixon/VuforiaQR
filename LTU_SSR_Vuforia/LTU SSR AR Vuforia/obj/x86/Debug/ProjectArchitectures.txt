@@ -1,0 +1,4 @@
+C:\Users\vr-user\Documents\pd_dev\unityTutorial\rollerball\VuforiaQR\LTU_SSR_Vuforia\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\vr-user\Documents\pd_dev\unityTutorial\rollerball\VuforiaQR\LTU_SSR_Vuforia\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\vr-user\Documents\pd_dev\unityTutorial\rollerball\VuforiaQR\LTU_SSR_Vuforia\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\vr-user\Documents\pd_dev\unityTutorial\rollerball\VuforiaQR\LTU_SSR_Vuforia\LTU SSR AR Vuforia\LTU SSR AR Vuforia.csproj;x86

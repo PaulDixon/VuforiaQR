@@ -1,0 +1,26 @@
+{
+"contextResponses": ["sensor1" :
+{ "_id":
+{ "id":"env_virt_5",
+"type":"test",
+"servicePath":""
+},"attrNames":["humidity","position","owner","environment","visibility"],
+		"attrs":{
+			"humidity":{"value":114,"type":"Number","mdNames":[],"creDate":1522055622,"modDate":1522227222},
+			"position":{"type":"geo:point","creDate":1522055622,"modDate":1522055622,"value":"18.677896423339842,64.59036829080296","mdNames":[]},
+			"owner":{"type":"String","creDate":1522055622,"modDate":1522055622,"value":"testing","mdNames":[]},
+			"environment":{"type":"String","creDate":1522055622,"modDate":1522055622,"value":"Indoor","mdNames":[]},
+			"visibility":{"type":"String","creDate":1522055622,"modDate":1522055622,"value":"Public","mdNames":[]}
+			},
+		"creDate":1522055622,
+		"modDate":1522227222,
+		"location":{
+			"attrName":"position",
+			"coords":{
+				"type":"Point",
+				"coordinates":[64.59036829080296,18.677896423339842]
+				}
+			}
+		},
+	
+]}
